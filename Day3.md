@@ -16,6 +16,18 @@ With Python installed
 
 + create requirement.txt
 
++ Setup Docker [Link](https://docs.docker.com/engine/install)
+
++ Create Dockerfile
+
++ Build Docker docker build -t luxapp . 
+
++ Run Docker
+
+**All tasks above have been successfully created, all errors corrected, docker image produces desired result.**
+
+[Link to Project](https://github.com/Danny10ison/lux-academy-fast_api-bootcamp/tree/main/test)
+
 ### Resources
 [Python Website](https://www.python.org/)
 
