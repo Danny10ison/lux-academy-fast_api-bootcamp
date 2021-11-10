@@ -1,2 +1,9 @@
+# vscode
+.vscode
+
+
+# virtual environment
 test/.prac
+
+# python cache
 test/__pycache__
