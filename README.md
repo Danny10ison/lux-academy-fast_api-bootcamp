@@ -2,17 +2,14 @@
 
 ## Week 1 Tasks
 
-### Day 1
+## [Day 1](https://github.com/Danny10ison/lux-academy-fast_api-bootcamp/blob/main/Day1.md)
 
-+ [] Introduction to Python for Web Development
-+ [x] Learn how to create a “repository” (project) with a git hosting tool (like GitHub or Bitbucket) 
-+ [x] Learn how to copy/clone the repository to your local machine
-+ [x] Learn how to add a file to your local repo and “commit” (save) the changes
-+ [x] Learn how to “Push” your changes to your master branch
-+ [x] Learn how to make a change to your file with a git hosting tool and commit
-+ [] Learn how to “Pull” the changes to your local machine
-+ [] Learn how to create a “branch” (version), make a change, commit the change
-+ [] Learn how to open a “pull request”.
-+ [] Learn how to “Merge” your branch to the master branch
+## [Day 2](https://github.com/Danny10ison/lux-academy-fast_api-bootcamp/blob/main/Day2.md)
+
+## [Day 3](https://github.com/Danny10ison/lux-academy-fast_api-bootcamp/blob/main/Day3.md)
+
+## [Day 4](https://github.com/Danny10ison/lux-academy-fast_api-bootcamp/blob/main/Day4.md)
+
+## [Day 5](https://github.com/Danny10ison/lux-academy-fast_api-bootcamp/blob/main/Day5.md)
 
 
