@@ -5,5 +5,12 @@
 # virtual environment
 test/.prac
 
+# virtual env
+week1project/.proj
+
 # python cache
 test/__pycache__
+
+# python cache
+week1project/__pycache__
+
