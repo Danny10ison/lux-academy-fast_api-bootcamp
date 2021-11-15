@@ -8,9 +8,12 @@ test/.prac
 # virtual env
 week1project/.proj
 
+article/.prac
+
 # python cache
 test/__pycache__
 
 # python cache
 week1project/__pycache__
 
+/article/__pycache__
