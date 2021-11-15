@@ -12,4 +12,6 @@
 
 ## [Day 5](https://github.com/Danny10ison/lux-academy-fast_api-bootcamp/blob/main/Day5.md)
 
+## [Week 1 Project](https://github.com/Danny10ison/lux-academy-fast_api-bootcamp/tree/main/week1project)
+
 
